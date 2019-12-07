@@ -22,7 +22,7 @@ class MainClass
         {
             try
             {
-                Console.WriteLine("Digite um numero positivo");
+                Console.WriteLine("Digite um Numero positivo");
                 Console.WriteLine(i.Metodo1(int.Parse(Console.ReadLine())));
                 break;
             }
